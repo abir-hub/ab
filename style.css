@@ -1,0 +1,99 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #5b5656;
+  font-size: 1.8rem;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 2.5rem;
+  margin-top: 3.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  letter-spacing: 2.17px;
+  font-size: 2.5rem;
+}
+h3{
+  font-size: 1.5rem;
+  letter-spacing: .5px;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.b {
+  font-weight: 400;
+  font-size: 1rem;
+  color: #bbbbbb;
+}
+
+/* CARD SECTION */
+.source-card {
+  padding: 6.25rem;
+}
+
+.card {
+  height: 17.5rem;
+  width: 25rem;
+  padding: 2%;
+  text-align: left;
+  color: #5b5656;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+  color: #bbbbbb;
+  font-size: 1.08rem;
+  margin-top: 1.8%;
+}
+.c {
+
+  margin: auto;
+
+}
+
+.d {
+
+  margin:auto;
+  margin-bottom: 2.5rem;
+
+}
+
+.e {
+
+  margin: auto;
+
+}
+
+.f {
+
+  margin: auto;
+
+}
+.card-c{
+  border-top: 4px solid #1eb2a6;
+}
+.card-d{
+  border-top: 4px solid red;
+}
+.card-e{
+  border-top: 4px solid #ffa41b;
+}
+.card-f{
+    border-top: 4px solid #00a8cc;
+}
+.para-card{
+  margin-top: 1rem;
+}
+/* ICON */
+.icon{
+
+  position: relative;
+  left: 16.375rem;
+}
